@@ -5,6 +5,7 @@ sqlite3 database and Python management script for tracking MAC addresses
 ## sqlite table
 
 ```sql
+sqlite> .import --csv /tmp/f.csv macs
 sqlite> pragma table_info(macs);
 0|user|TEXT|0||0
 1|device|TEXT|0||0
