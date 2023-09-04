@@ -1,4 +1,6 @@
 #! /usr/local/bin/python
+#
+# source: https://www.blog.pythonlibrary.org/2021/09/30/sqlite/
 
 import sqlite3
 
