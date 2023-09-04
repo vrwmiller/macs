@@ -28,4 +28,4 @@ if __name__ == '__main__':
     cursor = get_cursor()
     select_all_records_by_device(cursor,
                                  device='laptop1')
-    select_using_like(cursor, text='vrsn')
+    select_using_like(cursor, text='ps3')
