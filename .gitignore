@@ -1,2 +1,3 @@
 db/macs.sqlite
 .vscode
+*.csv
